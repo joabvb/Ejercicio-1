@@ -35,10 +35,6 @@ certificado-digital/
 ├── README.md
 ```
 
-## Capturas de Pantalla
-
-![SS.jpg](C:\Users\JOAB\Desktop\UNAM\10mo\TEMAS SELECTOS DE PROGRAMACION II\Ejercicios\Ejercicio-1\images\SS.jpg)
-
 ## Autor
 - **Joab Vega Barenas**
 
